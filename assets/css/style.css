@@ -1560,7 +1560,7 @@ form h1 {
   .content h3::before {
     content: "";
     position: absolute;
-    left: 140px;
+    left: 150px;
     top: 10px;
     width: 50px;
     height: 7px;
